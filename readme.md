@@ -33,4 +33,9 @@ OpenAPI definition
 
 # ReadyAPIPerf Test project
 
+```
+ReadyAPIPerfTest.xml
+```
 A sample project to run basic ReadyAPI performance tests. It comes preconfigured with a public test target server that runs the code in this project.
+
+## 
